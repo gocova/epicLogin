@@ -1,0 +1,21 @@
+{
+  "name": "epiclogin",
+  "version": "1.0.0",
+  "author": "Gonzalo Covarrubias",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "esbuild": "^0.23.1",
+    "esbuild-plugin-solid": "^0.6.0",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.7",
+    "@solidjs/router": "^0.14.3",
+    "appwrite": "^15.0.0",
+    "redux": "^5.0.1",
+    "redux-observable": "^3.0.0-rc.2",
+    "rxjs": "^7.8.1",
+    "solid-js": "^1.8.21"
+  }
+}
